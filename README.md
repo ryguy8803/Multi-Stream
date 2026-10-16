@@ -11,12 +11,6 @@ Steps to build and/or run the software:
 3. Add destinations with `POST /stream/config`, or edit the SQLite database. Never commit stream keys.
 4. Run `npm run build && npm start` and point OBS at `rtmp://127.0.0.1:1935/live` with any stream name.
 
-Instructions for using the software:
-
-1. First step here
-2.
-3.
-
 ## API
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
@@ -38,6 +32,6 @@ This is intentionally a compact baseline rather than a complete RTMP server: it 
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
+* [ ] Works good, I would like to optomize this program to take less load of the CPU 
 * [ ]
 * [ ]

@@ -24,24 +24,22 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 |Date |Start Time|Category|Description|Total Minutes|
-|10/5/2026|11:30/3:00|MTG/IM/TP|class meeting and more sql practice|150|
-|10/6/2026|3:00|IM/TP|Worked on start to SQL project|120|
-|10/7/2026|11:30/3:00|MTG/IM|class meeting and more sql practice|90|
+|10/5/2026|11:30/3:00|MTG/IM/TP|class meeting begin learning TypeScript|150|
+|10/6/2026|3:00|IM/TP|Worked on Milt Stream|120|
+|10/7/2026|11:30/3:00|MTG/IM|class meeting and more TS practice|90|
 |10/8/2026|3:00|IM|Worked on debugging code|60|
-|10/9/2026|11:30/3:00|MTG/IM/TP|class meeting and more sql practice|240|
+|10/9/2026|11:30/3:00|MTG/IM/TP|class meeting and more TS practice|240|
 |10/12/2026|11:30/3:00|MTG/IM/TP|class meeting and set up repo and database|120|
 |10/13/2026|3:00|IM|Worked on debugging code|60|
 |10/14/2026|11:30/3:00|MTG/IM|class meeting and worked on main meat of project|90|
 |10/15/2026|3:00|IM|Worked on debugging code|60|
 |10/16/2026|11:30/3:00|MTG/IM|class meeting and debugged and finished|90|
 
-_Note: Add more rows as needed._
-
 ## Sprint Totals
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |         8                 |
+|TP - Team Project              |        4                  |
+|MTG - Class Meetings           |        6                  |
+|**TOTAL**                      |            18              |
